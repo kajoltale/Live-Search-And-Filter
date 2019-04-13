@@ -1,0 +1,5 @@
+Queries: 
+
+1. create database area;
+2. use area;
+3. create table cities(city varchar(20), area float, population int, height int, population_density float, births_per_woman_per_ year float, growth_rate float);
